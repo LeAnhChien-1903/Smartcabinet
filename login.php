@@ -1,4 +1,1 @@
-*?php
-login screen
-echo "nhanh1";
-?*
+vui long nhap user name va password
